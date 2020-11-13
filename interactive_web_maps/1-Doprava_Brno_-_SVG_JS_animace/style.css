@@ -1,0 +1,51 @@
+html {
+    touch-action: manipulation;
+    font-size: 125% ;
+}
+body { 
+    margin: 0;
+    padding: 1rem;
+    line-height: 1.3;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: normal;
+}
+p {
+    margin-bottom: 1.45em;
+    color: #5C415D;
+}
+h1 {
+    font-size: 1.3rem;
+    margin: -20px;
+}
+#map_container {
+    padding-right: 8%;
+    height: 460px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;        
+}
+#map_container svg {
+    position: relative;
+    height: 120%; 
+    width: 120%;    
+}
+#animation {
+    padding-top: 3%;
+    height: 0.8rem;
+}
+#print_div {
+    height: 2rem;
+}
+#years {
+    text-indent: -1.5rem;
+    height: 1rem;
+}
+footer {
+    padding-top: 5%;
+    text-align: left;
+    font-size: 0.8rem;
+    font-weight: normal;
+    color: #5C415D;
+}
+  
